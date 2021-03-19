@@ -17,7 +17,7 @@ import './equatable_utils.dart';
 /// }
 /// ```
 /// {@endtemplate}
-@immutable
+// @immutable
 abstract class Equatable {
   /// {@macro equatable}
   const Equatable();
